@@ -30,6 +30,7 @@ middle, high, B
 6)	In that dialog box there are four modes, click on explorer.
 7)	Explorer shows many options. In that click on ‘open file’ and select the arff file
 8)	Click on edit button which shows employee table on weka.
+```
  
 Training Data Set  Employee Table
 <img width="731" height="788" alt="image" src="https://github.com/user-attachments/assets/4606bb39-2189-499b-93cd-de557254bf3f" />
@@ -41,12 +42,11 @@ Procedure for Association Rules:
 4)	Select Associate option on the top of the Menu bar.
 5)	Select Choose button and then click on Apriori Algorithm.
 6)	Click on Start button and output will be displayed on the right side of the window.
- <img width="1080" height="855" alt="image" src="https://github.com/user-attachments/assets/ed55ef14-ccfe-4eb0-9c8a-cd5740aab138" />
-
  
 Output:
-<img width="941" height="568" alt="image" src="https://github.com/user-attachments/assets/553cab8b-b1a0-4116-ac90-37308e0b6273" />
-<img width="941" height="636" alt="image" src="https://github.com/user-attachments/assets/6eda356b-a835-48c4-a32b-c708825289ac" />
+
+<img width="1212" height="982" alt="image" src="https://github.com/user-attachments/assets/824b98f4-1827-4b0a-b7b7-2313cb6ed855" />
+
 
 
  
